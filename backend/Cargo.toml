@@ -1,0 +1,12 @@
+[package]
+name = "backend"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+
+[dependencies]
+axum = "0.5"
+axum-extra = { version = "0.3.7", features = ["spa"] }
+shuttle-service = { version = "0.7.2", features = ["web-axum"] }
+sync_wrapper = "0.1"

@@ -1,0 +1,10 @@
+/home/bcpeinhardt/Development/yewaxumshuttle/target/wasm32-unknown-unknown/release/deps/gloo_storage-d16110130fab42c1.rmeta: /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/bcpeinhardt/Development/yewaxumshuttle/target/wasm32-unknown-unknown/release/deps/libgloo_storage-d16110130fab42c1.rlib: /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/bcpeinhardt/Development/yewaxumshuttle/target/wasm32-unknown-unknown/release/deps/gloo_storage-d16110130fab42c1.d: /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs:
+/home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs:
+/home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs:
+/home/bcpeinhardt/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs:
